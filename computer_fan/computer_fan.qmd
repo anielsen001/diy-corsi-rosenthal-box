@@ -1,0 +1,8 @@
+---
+title: Computer fan version
+format: html
+---
+
+https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570
+
+[Artic P14 fan hole pattern](https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf)
