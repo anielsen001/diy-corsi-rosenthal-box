@@ -1,0 +1,13 @@
+---
+title: PC case fan
+format: html
+---
+
+## TODOs
+
+- [ ] consider 3d printing interlocking plates to make the fan holders
+
+## Case fan notes
+
+A parametric model for the case fan can be found here: 
+- https://www.thingiverse.com/thing:1049631
