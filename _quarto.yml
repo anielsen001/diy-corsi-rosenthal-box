@@ -13,6 +13,18 @@ website:
         menu: 
           - text: Source code
             url: https://github.com/anielsen001/diy-corsi-rosenthal-box
+  sidebar:
+    search: true
+    style: floating
+    contents: 
+      - section: "Variants"
+        contents:
+          - text: Box Fan
+            file: boxfan.qmd
+          - text: Honeywell HT-908
+            file: honeywell-ht908.qmd
+          - pc_case_fan.qmd
+
 
 format:
   html: 

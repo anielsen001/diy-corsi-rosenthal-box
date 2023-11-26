@@ -3,3 +3,16 @@ title: CR Box Fan
 format: html
 ---
 
+This is the first box, built around December 2021 and rebuilt in September 2022 with new filters. @fig-new-used-compare shows the difference between a new and used filter. 
+
+This original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well becuase the control is accessible, but it is louder than I'd like. The fitlers are 3M Filtrete 1900. 
+
+::: {#fig-used-cr-box layout-ncol=2}
+![My original CR Box](img/Original_Box_used_crop.jpg)
+
+![Rebuilt CR box with new filters](img/cr_box_new_crop.jpg)
+
+CR filter after 8 months of use.
+:::
+
+![Comparison of New/Used filters](img/new_used_filter_compare.jpg){#fig-new-used-compare}

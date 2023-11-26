@@ -3,9 +3,6 @@ title: DIY Corsi-Rosenthal Boxes
 format:
     gfm:
         output-file: README.md
-    html:
-        theme: default
-        toc: true
 ---
 
 The [Corsi-Rosenthal Box](https://cleanaircrew.org/box-fan-filters/) is a DIY air-filter made from a box fan and MERV 13 air filters. This project is primarily a summary of references I've collected and information I've documented in the construction of my boxes.
