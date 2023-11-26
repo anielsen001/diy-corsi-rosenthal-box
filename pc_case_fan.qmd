@@ -15,7 +15,7 @@ At full power, draws 11-12 Watts.
 
 ## References
 
-- [Hole pattern for case fans](/refs/140mm_fan-Mounting_hole_pattern.pdf)
+- [Artic P14 fan hole pattern](https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf)
 
 ## TODOs
 
