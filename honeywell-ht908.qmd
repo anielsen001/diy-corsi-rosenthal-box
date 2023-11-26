@@ -3,7 +3,11 @@ title: CR Box based on Honeywell HT-908
 format: html
 ---
 
-![](/img/cr_box_new_honeywell_crop.jpg)
+## Construction
+
+This is a version based on the Honeywell HT-908 fan. The version is more quiet than a box fan. The biggest drawback is that the fan control is not accessible in this design unless you cut an access panel in the box. The fan mounting was build with the box the fan came in. It's mounted at an angle so that it doesn't fall in, gaps are covered with duct tape.
+
+![CR Box built with Honeywell HT-908 fan](/img/cr_box_new_honeywell_crop.jpg)
 
 ## Power draw
 
