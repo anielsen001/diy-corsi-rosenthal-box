@@ -1,0 +1,14 @@
+---
+title: CR Box based on Honeywell HT-908
+format: html
+---
+
+![](/img/cr_box_new_honeywell_crop.jpg)
+
+## Power draw
+
+| speed | Watts |
+|-------|-------|
+| High  | 45.4  |
+| Med   | 40.4  |
+| Low   | 33.6  |

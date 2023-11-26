@@ -3,6 +3,12 @@ title: PC case fan
 format: html
 ---
 
+## Background
+
+Joey Fox at [https://itsairborne.com/](https://itsairborne.com/) has a good [guide to build a PC Case Fan version of the CR Box](https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570). Which is what I followed to build mine:
+
+![](/img/cr_box_pc_case_fan_arctic_p14.jpg)
+
 ## TODOs
 
 - [ ] consider 3d printing interlocking plates to make the fan holders

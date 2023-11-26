@@ -1,7 +1,22 @@
 project:
-  title: "diy-corsi-rosenthal-box"
+  title: "DIY Corsi-Rosenthal Box"
   type: website
   output-dir: _site
 
+website:
+  navbar:
+    left: 
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: github
+        menu: 
+          - text: Source code
+            url: https://github.com/anielsen001/diy-corsi-rosenthal-box
 
+format:
+  html: 
+    toc: true
 
+bibliography:
+  - cr.bib
