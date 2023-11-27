@@ -9,6 +9,10 @@ Joey Fox at [https://itsairborne.com/](https://itsairborne.com/) has a good [gui
 
 ![](/img/cr_box_pc_case_fan_arctic_p14.jpg)
 
+## Air flow
+
+- [From technical specs](https://www.arctic.de/us/P14-PWM/ACFAN00124A) each fan draws 72.8 CFM/ 123.8 m3/h
+
 ## Power draw
 
 At full power, draws 11-12 Watts. 
