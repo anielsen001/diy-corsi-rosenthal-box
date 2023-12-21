@@ -1,8 +1,6 @@
 ---
 title: "DIY Corsi-Rosenthal Boxes"
 format: html
-nocite: |
-    @*
 ---
 
 ## Background
@@ -52,9 +50,3 @@ https://twitter.com/PlasticFull/status/1553013960164741120?t=yRqDK38UzRBJuIh6EnF
 
 
 [Google doc of references](https://docs.google.com/document/d/1RtNl0xYykWiAvYTw280keD50XkFzOIK_W4BNS9tln7c/edit) by [Nsoursanis](https://twitter.com/Nsousanis)
-
-
-## References
-
-::: {#refs}
-:::

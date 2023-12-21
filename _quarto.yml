@@ -4,6 +4,7 @@ project:
   output-dir: _site
 
 website:
+  google-analytics: "G-4XJJZBV3JW"
   navbar:
     left: 
       - href: index.qmd
@@ -14,6 +15,7 @@ website:
           - text: Source code
             url: https://github.com/anielsen001/diy-corsi-rosenthal-box
   sidebar:
+    logo: "img/cr_box_new_crop.jpg"
     search: true
     style: floating
     contents: 
@@ -24,6 +26,7 @@ website:
           - text: Honeywell HT-908
             file: honeywell-ht908.qmd
           - pc_case_fan.qmd
+      - references.qmd
 
 
 format:
