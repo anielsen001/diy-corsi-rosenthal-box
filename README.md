@@ -1,5 +1,4 @@
-DIY Corsi-Rosenthal Boxes
-================
+# DIY Corsi-Rosenthal Boxes
 
 The [Corsi-Rosenthal Box](https://cleanaircrew.org/box-fan-filters/) is
 a DIY air-filter made from a box fan and MERV 13 air filters. This
@@ -14,7 +13,7 @@ This original box was largely used in an open basement. The box fan is a
 20in. Hurricane which works well becuase the control is accessible, but
 it is louder than I’d like. The fitlers are 3M Filtrete 1900.
 
-<div>
+<div id="fig-used-cr-box">
 
 <table>
 <colgroup>
@@ -25,20 +24,13 @@ it is louder than I’d like. The fitlers are 3M Filtrete 1900.
 <tr class="odd">
 <td style="text-align: center;"><div width="50.0%"
 data-layout-align="center">
-<figure>
-<img src="img/Original_Box_used_crop.jpg" data-fig.extended="false"
-alt="My original CR Box" />
-<figcaption aria-hidden="true">My original CR Box</figcaption>
-</figure>
+<p><img src="img/Original_Box_used_crop.jpg" data-fig.extended="false"
+alt="My original CR Box" /></p>
 </div></td>
 <td style="text-align: center;"><div width="50.0%"
 data-layout-align="center">
-<figure>
-<img src="img/cr_box_new_crop.jpg" data-fig.extended="false"
-alt="Rebuilt CR box with new filters" />
-<figcaption aria-hidden="true">Rebuilt CR box with new
-filters</figcaption>
-</figure>
+<p><img src="img/cr_box_new_crop.jpg" data-fig.extended="false"
+alt="Rebuilt CR box with new filters" /></p>
 </div></td>
 </tr>
 </tbody>
@@ -48,24 +40,16 @@ Figure 1: CR filter after 8 months of use.
 
 </div>
 
-<figure>
 <img src="img/new_used_filter_compare.jpg" id="fig-new-used-compare"
 alt="Figure 2: Comparison of New/Used filters" />
-<figcaption aria-hidden="true">Figure 2: Comparison of New/Used
-filters</figcaption>
-</figure>
 
 I built another box using a Honeywell Turbo Force 908 fan. This set up
 is much more quiet than the Hurricane box filter. This filter is also
 built with 20x20x2 and 20x15x2 MERV-13 filter instead of the 1in deep
 used previously.
 
-<figure>
 <img src="img/cr_box_new_honeywell_crop.jpg" id="fig-honeywell"
 alt="Figure 3: Honeywell Turbo Force Filter" />
-<figcaption aria-hidden="true">Figure 3: Honeywell Turbo Force
-Filter</figcaption>
-</figure>
 
 # General Links
 
