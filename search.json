@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "3dprint/plate/plate.html",
+    "href": "3dprint/plate/plate.html",
+    "title": "3D Printed plate design",
+    "section": "",
+    "text": "Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed customizable fan grill cover. This thingiverse posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:\n\nIncreased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 25 mm.\nRemoved rounded corners so that plates fit together more tightly.\n\nThese modifications can be found here."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Dal Porto, Rachael, Monet N. Kunz, Theresa Pistochini, Richard L. Corsi, and Christopher D. Cappa. 2022. “Characterizing the Performance of a Do-It-Yourself (DIY) Box Fan Air Filter.” Aerosol Science and Technology 56 (6): 564–72. https://doi.org/10.1080/02786826.2022.2054674.\n\n\nSrikrishna, Devabhaktuni. 2022. “Can 10× Cheaper, Lower-Efficiency Particulate Air Filters and Box Fans Complement High-Efficiency Particulate Air (HEPA) Purifiers to Help Control the COVID-19 Pandemic?” Science of The Total Environment 838 (September): 155884. https://doi.org/10.1016/j.scitotenv.2022.155884."
+  },
+  {
+    "objectID": "references.html#references",
+    "href": "references.html#references",
+    "title": "References",
+    "section": "",
+    "text": "Dal Porto, Rachael, Monet N. Kunz, Theresa Pistochini, Richard L. Corsi, and Christopher D. Cappa. 2022. “Characterizing the Performance of a Do-It-Yourself (DIY) Box Fan Air Filter.” Aerosol Science and Technology 56 (6): 564–72. https://doi.org/10.1080/02786826.2022.2054674.\n\n\nSrikrishna, Devabhaktuni. 2022. “Can 10× Cheaper, Lower-Efficiency Particulate Air Filters and Box Fans Complement High-Efficiency Particulate Air (HEPA) Purifiers to Help Control the COVID-19 Pandemic?” Science of The Total Environment 838 (September): 155884. https://doi.org/10.1016/j.scitotenv.2022.155884."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DIY Corsi-Rosenthal Boxes",
+    "section": "",
+    "text": "The Corsi-Rosenthal Box is a DIY air-filter made from a box fan and MERV 13 air filters. This project is primarily a summary of references I’ve collected and information I’ve documented in the construction of my boxes.\nThis is the first box, built around December 2021 and rebuilt in September 2022 with new filters. Figure 2 shows the difference between a new and used filter.\nThis original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well becuase the control is accessible, but it is louder than I’d like. The fitlers are 3M Filtrete 1900.\n\n\n\n\n\n\n\nMy original CR Box\n\n\n\n\n\n\n\nRebuilt CR box with new filters\n\n\n\n\nFigure 1: CR filter after 8 months of use.\n\n\n\n\n\nFigure 2: Comparison of New/Used filters\n\n\nI built another box using a Honeywell Turbo Force 908 fan. This set up is much more quiet than the Hurricane box filter. This filter is also built with 20x20x2 and 20x15x2 MERV-13 filter instead of the 1in deep used previously.\n\n\n\nFigure 3: Honeywell Turbo Force Filter"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "DIY Corsi-Rosenthal Boxes",
+    "section": "",
+    "text": "The Corsi-Rosenthal Box is a DIY air-filter made from a box fan and MERV 13 air filters. This project is primarily a summary of references I’ve collected and information I’ve documented in the construction of my boxes.\nThis is the first box, built around December 2021 and rebuilt in September 2022 with new filters. Figure 2 shows the difference between a new and used filter.\nThis original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well becuase the control is accessible, but it is louder than I’d like. The fitlers are 3M Filtrete 1900.\n\n\n\n\n\n\n\nMy original CR Box\n\n\n\n\n\n\n\nRebuilt CR box with new filters\n\n\n\n\nFigure 1: CR filter after 8 months of use.\n\n\n\n\n\nFigure 2: Comparison of New/Used filters\n\n\nI built another box using a Honeywell Turbo Force 908 fan. This set up is much more quiet than the Hurricane box filter. This filter is also built with 20x20x2 and 20x15x2 MERV-13 filter instead of the 1in deep used previously.\n\n\n\nFigure 3: Honeywell Turbo Force Filter"
+  },
+  {
+    "objectID": "index.html#general-links",
+    "href": "index.html#general-links",
+    "title": "DIY Corsi-Rosenthal Boxes",
+    "section": "General Links",
+    "text": "General Links\nClean Air Crew"
+  },
+  {
+    "objectID": "index.html#construction-links",
+    "href": "index.html#construction-links",
+    "title": "DIY Corsi-Rosenthal Boxes",
+    "section": "Construction Links",
+    "text": "Construction Links\nShroud construction"
+  },
+  {
+    "objectID": "index.html#research-and-testing-links",
+    "href": "index.html#research-and-testing-links",
+    "title": "DIY Corsi-Rosenthal Boxes",
+    "section": "Research and Testing Links",
+    "text": "Research and Testing Links\nThere was a lot of good information posted on twitter.\nhttps://twitter.com/PlasticFull/status/1553013960164741120?t=yRqDK38UzRBJuIh6EnFEDw&s=19\nDavid Elfstrom on Twitter\n\nSummary of CR box info\nSingle filter optimization\n\nGoogle doc of references by Nsoursanis"
+  },
+  {
+    "objectID": "pc_case_fan.html",
+    "href": "pc_case_fan.html",
+    "title": "PC case fan",
+    "section": "",
+    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build mine:"
+  },
+  {
+    "objectID": "pc_case_fan.html#background",
+    "href": "pc_case_fan.html#background",
+    "title": "PC case fan",
+    "section": "",
+    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build mine:"
+  },
+  {
+    "objectID": "pc_case_fan.html#air-flow",
+    "href": "pc_case_fan.html#air-flow",
+    "title": "PC case fan",
+    "section": "Air flow",
+    "text": "Air flow\n\nFrom technical specs each fan draws 72.8 CFM/ 123.8 m3/h"
+  },
+  {
+    "objectID": "pc_case_fan.html#power-draw",
+    "href": "pc_case_fan.html#power-draw",
+    "title": "PC case fan",
+    "section": "Power draw",
+    "text": "Power draw\nAt full power, draws 11-12 Watts."
+  },
+  {
+    "objectID": "pc_case_fan.html#references",
+    "href": "pc_case_fan.html#references",
+    "title": "PC case fan",
+    "section": "References",
+    "text": "References\n\nArtic P14 fan hole pattern"
+  },
+  {
+    "objectID": "pc_case_fan.html#todos",
+    "href": "pc_case_fan.html#todos",
+    "title": "PC case fan",
+    "section": "TODOs",
+    "text": "TODOs\n\nconsider 3d printing interlocking plates to make the fan holders"
+  },
+  {
+    "objectID": "pc_case_fan.html#case-fan-notes",
+    "href": "pc_case_fan.html#case-fan-notes",
+    "title": "PC case fan",
+    "section": "Case fan notes",
+    "text": "Case fan notes\nA parametric model for the case fan can be found here: - https://www.thingiverse.com/thing:1049631"
+  },
+  {
+    "objectID": "boxfan.html",
+    "href": "boxfan.html",
+    "title": "CR Box Fan",
+    "section": "",
+    "text": "This is the first box, built around December 2021 and rebuilt in September 2022 with new filters. Figure 2 shows the difference between a new and used filter.\nThis original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well becuase the control is accessible, but it is louder than I’d like. The fitlers are 3M Filtrete 1900.\n\n\n\n\n\n\n\nMy original CR Box\n\n\n\n\n\n\n\nRebuilt CR box with new filters\n\n\n\n\nFigure 1: CR filter after 8 months of use.\n\n\n\n\n\nFigure 2: Comparison of New/Used filters"
+  },
+  {
+    "objectID": "honeywell-ht908.html",
+    "href": "honeywell-ht908.html",
+    "title": "CR Box based on Honeywell HT-908",
+    "section": "",
+    "text": "This is a version based on the Honeywell HT-908 fan. The version is more quiet than a box fan. The biggest drawback is that the fan control is not accessible in this design unless you cut an access panel in the box. The fan mounting was build with the box the fan came in. It’s mounted at an angle so that it doesn’t fall in, gaps are covered with duct tape.\n\n\n\nCR Box built with Honeywell HT-908 fan"
+  },
+  {
+    "objectID": "honeywell-ht908.html#construction",
+    "href": "honeywell-ht908.html#construction",
+    "title": "CR Box based on Honeywell HT-908",
+    "section": "",
+    "text": "This is a version based on the Honeywell HT-908 fan. The version is more quiet than a box fan. The biggest drawback is that the fan control is not accessible in this design unless you cut an access panel in the box. The fan mounting was build with the box the fan came in. It’s mounted at an angle so that it doesn’t fall in, gaps are covered with duct tape.\n\n\n\nCR Box built with Honeywell HT-908 fan"
+  },
+  {
+    "objectID": "honeywell-ht908.html#power-draw",
+    "href": "honeywell-ht908.html#power-draw",
+    "title": "CR Box based on Honeywell HT-908",
+    "section": "Power draw",
+    "text": "Power draw\n\n\n\nspeed\nWatts\n\n\n\n\nHigh\n45.4\n\n\nMed\n40.4\n\n\nLow\n33.6"
+  },
+  {
+    "objectID": "computer_fan/computer_fan.html",
+    "href": "computer_fan/computer_fan.html",
+    "title": "Computer fan version",
+    "section": "",
+    "text": "https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570\nArtic P14 fan hole pattern"
+  }
+]
