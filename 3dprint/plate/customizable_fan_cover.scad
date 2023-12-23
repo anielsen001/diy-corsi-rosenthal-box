@@ -78,7 +78,8 @@ line_size = line_size_in_millimter;
 line_space = line_space_in_millimeter;
 
 // EXTRA BORDER
-extra_border = 25; 
+extra_border_x = 30;
+extra_border_y = 15;
 //
 
  // Program Section //
@@ -132,7 +133,7 @@ module fan_cover(cover_size, screw_hole_dia, screw_hole_distance, cover_h, grill
                 difference() {
                     offset(r=corner_r, $fn = ceil(corner_r * 8)) {
                         offset(r=-corner_r) {
-                            square([cover_size+extra_border, cover_size+extra_border], center = true);
+                            square([cover_size+extra_border_x, cover_size+extra_border_y], center = true);
                         }
                     }
                     if(frame_option == "reduced") {
