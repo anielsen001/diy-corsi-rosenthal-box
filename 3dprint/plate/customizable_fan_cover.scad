@@ -78,7 +78,7 @@ line_size = line_size_in_millimter;
 line_space = line_space_in_millimeter;
 
 // EXTRA BORDER
-extra_border_x = 30;
+extra_border_x = 25;
 extra_border_y = 15;
 //
 
