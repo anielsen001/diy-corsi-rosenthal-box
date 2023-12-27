@@ -1,2 +1,5 @@
 /.quarto/
 /_site/
+
+*_original
+IMG_*.jpg

@@ -6,7 +6,8 @@ format: html
 
 Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed [customizable fan grill cover](https://www.thingiverse.com/thing:2802474). This [thingiverse](https://www.thingiverse.com/) posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:
 
-- Increased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 25 mm. 
+- Increased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 12.2 mm. 
+- Increased plate size border to 7.5 mm to fit within the 20in length of the filter and avoid interference when panels are next to each other. 
 - Removed rounded corners so that plates fit together more tightly. 
 
 These modifications can be found [here](customizable_fan_cover.scad). 

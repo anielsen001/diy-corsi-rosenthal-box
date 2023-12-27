@@ -1,13 +1,37 @@
 ---
 title: PC case fan
+date: last-modified
 format: html
 ---
 
 ## Background
 
-Joey Fox at [https://itsairborne.com/](https://itsairborne.com/) has a good [guide to build a PC Case Fan version of the CR Box](https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570). Which is what I followed to build mine:
+Joey Fox at [https://itsairborne.com/](https://itsairborne.com/) has a good [guide to build a PC Case Fan version of the CR Box](https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570). Which is what I followed to build this one:
 
 ![](/img/cr_box_pc_case_fan_arctic_p14.jpg)
+
+This design involves a bit of wood working, which is not my forte, so I came up with a similar version that used 3D printed plates.
+
+## 3D printed plate version
+
+Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed [customizable fan grill cover](https://www.thingiverse.com/thing:2802474). This [thingiverse](https://www.thingiverse.com/) posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:
+
+- Increased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 12.2 mm. 
+- Increased plate size border to 7.5 mm to fit within the 20in length of the filter and avoid interference when panels are next to each other. 
+- Removed rounded corners so that plates fit together more tightly. 
+
+These modifications can be found [here](/3dprint/plate/customizable_fan_cover.scad). Each panel is "welded" together using a soldering iron. 
+
+![Single printed plate](/img/cr_pc_case_fan_plate_v1.jpg)
+
+![Welded plates with fans mounted](/img/cr_pc_case_fan_3dprint_3panels.jpg)
+
+![CR box with 3D printed plates to hold the fans](/img/cr_pc_case_fan_3dprint_plates.jpg)
+
+An additional improvement was to put some pre-filter material over the filters to catch animal hair. 
+
+![CR box with pre-filter to catch animal hair](/img/cr_pc_case_fan_3dprint_plates_haircatcher.jpg)
+
 
 ## Air flow
 
@@ -15,17 +39,11 @@ Joey Fox at [https://itsairborne.com/](https://itsairborne.com/) has a good [gui
 
 ## Power draw
 
-At full power, draws 11-12 Watts. 
+At full power, draws 11-12 Watts, as measured with a Kill-a-Watt. 
 
 ## References
 
-- [Artic P14 fan hole pattern](https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf)
+- [Arctic P14 fan hole pattern](https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf), accessed 2023-12-27.
+- [Joey Fox](https://medium.com/@joeyfox.85), [Building a PC Fan Corsi-Rosenthanl Box](https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570) on [https://itsairborne.com/](https://itsairborne.com/), accessed 2023-12-27.
+- [mightynozzle](https://www.thingiverse.com/mightynozzle/designs) [Customizable Fan Grill Cover](https://www.thingiverse.com/mightynozzle/designs) on [thingiverse](https://www.thingiverse.com/), accessed 2023-12-27.
 
-## TODOs
-
-- [ ] consider 3d printing interlocking plates to make the fan holders
-
-## Case fan notes
-
-A parametric model for the case fan can be found here: 
-- https://www.thingiverse.com/thing:1049631
