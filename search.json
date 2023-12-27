@@ -4,7 +4,7 @@
     "href": "3dprint/plate/plate.html",
     "title": "3D Printed plate design",
     "section": "",
-    "text": "Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed customizable fan grill cover. This thingiverse posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:\n\nIncreased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 25 mm.\nRemoved rounded corners so that plates fit together more tightly.\n\nThese modifications can be found here."
+    "text": "Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed customizable fan grill cover. This thingiverse posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:\n\nIncreased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 12.2 mm.\nIncreased plate size border to 7.5 mm to fit within the 20in length of the filter and avoid interference when panels are next to each other.\nRemoved rounded corners so that plates fit together more tightly.\n\nThese modifications can be found here."
   },
   {
     "objectID": "references.html",
@@ -60,14 +60,21 @@
     "href": "pc_case_fan.html",
     "title": "PC case fan",
     "section": "",
-    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build mine:"
+    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build this one:\n\nThis design involves a bit of wood working, which is not my forte, so I came up with a similar version that used 3D printed plates."
   },
   {
     "objectID": "pc_case_fan.html#background",
     "href": "pc_case_fan.html#background",
     "title": "PC case fan",
     "section": "",
-    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build mine:"
+    "text": "Joey Fox at https://itsairborne.com/ has a good guide to build a PC Case Fan version of the CR Box. Which is what I followed to build this one:\n\nThis design involves a bit of wood working, which is not my forte, so I came up with a similar version that used 3D printed plates."
+  },
+  {
+    "objectID": "pc_case_fan.html#d-printed-plate-version",
+    "href": "pc_case_fan.html#d-printed-plate-version",
+    "title": "PC case fan",
+    "section": "3D printed plate version",
+    "text": "3D printed plate version\nRather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed customizable fan grill cover. This thingiverse posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:\n\nIncreased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 12.2 mm.\nIncreased plate size border to 7.5 mm to fit within the 20in length of the filter and avoid interference when panels are next to each other.\nRemoved rounded corners so that plates fit together more tightly.\n\nThese modifications can be found here. Each panel is “welded” together using a soldering iron.\n\n\n\nSingle printed plate\n\n\n\n\n\nWelded plates with fans mounted\n\n\n\n\n\nCR box with 3D printed plates to hold the fans\n\n\nAn additional improvement was to put some pre-filter material over the filters to catch animal hair.\n\n\n\nCR box with pre-filter to catch animal hair"
   },
   {
     "objectID": "pc_case_fan.html#air-flow",
@@ -81,28 +88,14 @@
     "href": "pc_case_fan.html#power-draw",
     "title": "PC case fan",
     "section": "Power draw",
-    "text": "Power draw\nAt full power, draws 11-12 Watts."
+    "text": "Power draw\nAt full power, draws 11-12 Watts, as measured with a Kill-a-Watt."
   },
   {
     "objectID": "pc_case_fan.html#references",
     "href": "pc_case_fan.html#references",
     "title": "PC case fan",
     "section": "References",
-    "text": "References\n\nArtic P14 fan hole pattern"
-  },
-  {
-    "objectID": "pc_case_fan.html#todos",
-    "href": "pc_case_fan.html#todos",
-    "title": "PC case fan",
-    "section": "TODOs",
-    "text": "TODOs\n\nconsider 3d printing interlocking plates to make the fan holders"
-  },
-  {
-    "objectID": "pc_case_fan.html#case-fan-notes",
-    "href": "pc_case_fan.html#case-fan-notes",
-    "title": "PC case fan",
-    "section": "Case fan notes",
-    "text": "Case fan notes\nA parametric model for the case fan can be found here: - https://www.thingiverse.com/thing:1049631"
+    "text": "References\n\nArctic P14 fan hole pattern, accessed 2023-12-27.\nJoey Fox, Building a PC Fan Corsi-Rosenthanl Box on https://itsairborne.com/, accessed 2023-12-27.\nmightynozzle Customizable Fan Grill Cover on thingiverse, accessed 2023-12-27."
   },
   {
     "objectID": "boxfan.html",

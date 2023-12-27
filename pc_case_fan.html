@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-12-27">
 
 <title>DIY Corsi-Rosenthal Box - PC case fan</title>
 <style>
@@ -185,11 +186,10 @@ gtag('config', 'G-4XJJZBV3JW', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#d-printed-plate-version" id="toc-d-printed-plate-version" class="nav-link" data-scroll-target="#d-printed-plate-version">3D printed plate version</a></li>
   <li><a href="#air-flow" id="toc-air-flow" class="nav-link" data-scroll-target="#air-flow">Air flow</a></li>
   <li><a href="#power-draw" id="toc-power-draw" class="nav-link" data-scroll-target="#power-draw">Power draw</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
-  <li><a href="#todos" id="toc-todos" class="nav-link" data-scroll-target="#todos">TODOs</a></li>
-  <li><a href="#case-fan-notes" id="toc-case-fan-notes" class="nav-link" data-scroll-target="#case-fan-notes">Case fan notes</a></li>
   </ul>
 </nav>
     </div>
@@ -206,6 +206,12 @@ gtag('config', 'G-4XJJZBV3JW', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 27, 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -215,8 +221,44 @@ gtag('config', 'G-4XJJZBV3JW', { 'anonymize_ip': true});
 
 <section id="background" class="level2">
 <h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>Joey Fox at <a href="https://itsairborne.com/">https://itsairborne.com/</a> has a good <a href="https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570">guide to build a PC Case Fan version of the CR Box</a>. Which is what I followed to build mine:</p>
+<p>Joey Fox at <a href="https://itsairborne.com/">https://itsairborne.com/</a> has a good <a href="https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570">guide to build a PC Case Fan version of the CR Box</a>. Which is what I followed to build this one:</p>
 <p><img src="./img/cr_box_pc_case_fan_arctic_p14.jpg" class="img-fluid"></p>
+<p>This design involves a bit of wood working, which is not my forte, so I came up with a similar version that used 3D printed plates.</p>
+</section>
+<section id="d-printed-plate-version" class="level2">
+<h2 class="anchored" data-anchor-id="d-printed-plate-version">3D printed plate version</h2>
+<p>Rather than woodworking, a 3D printed plate can be used as well. This design is based on a 3D-printed <a href="https://www.thingiverse.com/thing:2802474">customizable fan grill cover</a>. This <a href="https://www.thingiverse.com/">thingiverse</a> posted project contains OpenSCAD code to create a wide variety of fan covers. Several modifications have adapted it to a CR-box:</p>
+<ul>
+<li>Increased the plate size to have overlap for fitting to MERV 13 filters but an extra border of 12.2 mm.</li>
+<li>Increased plate size border to 7.5 mm to fit within the 20in length of the filter and avoid interference when panels are next to each other.</li>
+<li>Removed rounded corners so that plates fit together more tightly.</li>
+</ul>
+<p>These modifications can be found <a href="./3dprint/plate/customizable_fan_cover.scad">here</a>. Each panel is “welded” together using a soldering iron.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./img/cr_pc_case_fan_plate_v1.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Single printed plate</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./img/cr_pc_case_fan_3dprint_3panels.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Welded plates with fans mounted</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./img/cr_pc_case_fan_3dprint_plates.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">CR box with 3D printed plates to hold the fans</figcaption>
+</figure>
+</div>
+<p>An additional improvement was to put some pre-filter material over the filters to catch animal hair.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./img/cr_pc_case_fan_3dprint_plates_haircatcher.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">CR box with pre-filter to catch animal hair</figcaption>
+</figure>
+</div>
 </section>
 <section id="air-flow" class="level2">
 <h2 class="anchored" data-anchor-id="air-flow">Air flow</h2>
@@ -226,23 +268,15 @@ gtag('config', 'G-4XJJZBV3JW', { 'anonymize_ip': true});
 </section>
 <section id="power-draw" class="level2">
 <h2 class="anchored" data-anchor-id="power-draw">Power draw</h2>
-<p>At full power, draws 11-12 Watts.</p>
+<p>At full power, draws 11-12 Watts, as measured with a Kill-a-Watt.</p>
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
 <ul>
-<li><a href="https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf">Artic P14 fan hole pattern</a></li>
+<li><a href="https://support.arctic.de/products/p14/techdocs/140mm_fan-Mounting_hole_pattern.pdf">Arctic P14 fan hole pattern</a>, accessed 2023-12-27.</li>
+<li><a href="https://medium.com/@joeyfox.85">Joey Fox</a>, <a href="https://itsairborne.com/building-a-pc-fan-corsi-rosenthal-box-68e7cd1ca570">Building a PC Fan Corsi-Rosenthanl Box</a> on <a href="https://itsairborne.com/">https://itsairborne.com/</a>, accessed 2023-12-27.</li>
+<li><a href="https://www.thingiverse.com/mightynozzle/designs">mightynozzle</a> <a href="https://www.thingiverse.com/mightynozzle/designs">Customizable Fan Grill Cover</a> on <a href="https://www.thingiverse.com/">thingiverse</a>, accessed 2023-12-27.</li>
 </ul>
-</section>
-<section id="todos" class="level2">
-<h2 class="anchored" data-anchor-id="todos">TODOs</h2>
-<ul class="task-list">
-<li><input type="checkbox">consider 3d printing interlocking plates to make the fan holders</li>
-</ul>
-</section>
-<section id="case-fan-notes" class="level2">
-<h2 class="anchored" data-anchor-id="case-fan-notes">Case fan notes</h2>
-<p>A parametric model for the case fan can be found here: - https://www.thingiverse.com/thing:1049631</p>
 
 
 </section>
