@@ -1,0 +1,8 @@
+---
+title: DIY Corsi-Rosenthal Boxes
+format:
+    gfm:
+        output-file: README.md
+---
+
+{{< include /_cr.qmd >}}
