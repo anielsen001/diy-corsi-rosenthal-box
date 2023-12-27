@@ -10,8 +10,8 @@ September 2022 with new filters. [Figure 2](#fig-new-used-compare) shows
 the difference between a new and used filter.
 
 This original box was largely used in an open basement. The box fan is a
-20in. Hurricane which works well becuase the control is accessible, but
-it is louder than I’d like. The fitlers are 3M Filtrete 1900.
+20in. Hurricane which works well because the control is accessible, but
+it is louder than I’d like. The filters are 3M Filtrete 1900.
 
 <div id="fig-used-cr-box">
 

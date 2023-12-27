@@ -9,7 +9,7 @@ The [Corsi-Rosenthal Box](https://cleanaircrew.org/box-fan-filters/) is a DIY ai
 
 This is the first box, built around December 2021 and rebuilt in September 2022 with new filters. @fig-new-used-compare shows the difference between a new and used filter. 
 
-This original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well becuase the control is accessible, but it is louder than I'd like. The fitlers are 3M Filtrete 1900. 
+This original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well because the control is accessible, but it is louder than I'd like. The filters are 3M Filtrete 1900. 
 
 ::: {#fig-used-cr-box layout-ncol=2}
 ![My original CR Box](img/Original_Box_used_crop.jpg)
