@@ -1,6 +1,8 @@
 ---
 title: "DIY Corsi-Rosenthal Boxes"
-format: html
+format:
+  html:
+    toc: true
 ---
 
 {{< include /_cr.qmd >}}

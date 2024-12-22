@@ -1,5 +1,7 @@
 The [Corsi-Rosenthal Box](https://cleanaircrew.org/box-fan-filters/) is a DIY air-filter made from a box fan and MERV 13 air filters. This project is primarily a summary of references I've collected and information I've documented in the construction of my boxes.
 
+# Box Fans
+
 This is the first box, built around December 2021 and rebuilt in September 2022 with new filters. @fig-new-used-compare shows the difference between a new and used filter. 
 
 This original box was largely used in an open basement. The box fan is a 20in. Hurricane which works well because the control is accessible, but it is louder than I'd like. The filters are 3M Filtrete 1900. 
@@ -12,22 +14,21 @@ This original box was largely used in an open basement. The box fan is a 20in. H
 CR filter after 8 months of use.
 :::
 
-
 ![Comparison of New/Used filters](img/new_used_filter_compare.jpg){#fig-new-used-compare}
 
-I built another box using a Honeywell Turbo Force 908 fan. This set up is much more quiet than the Hurricane box filter. This filter is also built with 20x20x2 and 20x15x2 MERV-13 filter instead of the 1in deep used previously.
+## Honeywell TurboForce
+
+I built another box using a Honeywell Turbo Force 908 fan. This set up is much more quiet than the Hurricane box filter. This filter is also built with 20x20x2 and 20x16x2 MERV-13 filter instead of the 1in deep used previously.
 
 ![Honeywell Turbo Force Filter](img/cr_box_new_honeywell_crop.jpg){#fig-honeywell}
 
+This is a slightly different version using 4 20x16x2 MERV-13 filters.
 
-
+![Honeywell Turbo Force 4 20x16x2](img/cr_box_honeywell_4x16x20x2.jpg){#fig-honeywell2}
 
 # General Links
 
 [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/)
-
-
-
 
 
 # Construction Links
