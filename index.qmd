@@ -1,5 +1,7 @@
 ---
 title: "DIY Corsi-Rosenthal Boxes"
+date: last-modified
+
 format:
   html:
     toc: true
